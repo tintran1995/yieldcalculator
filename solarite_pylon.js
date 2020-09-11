@@ -8,9 +8,9 @@ async function main() {
     print_warning();
 
 
-    const stakingTokenAddr = "0xd7b7d3c0bda57723fb54ab95fd8f9ea033af37f2";
-    const stakingTokenTicker = "PYLON";
-    const rewardPoolAddr = "0x183194a58Da7d538f3730D291a9BbB17BBDd1264";
+    const stakingTokenAddr = "0xd55BD2C12B30075b325Bc35aEf0B46363B3818f8";
+    const stakingTokenTicker = "ZOMBIE";
+    const rewardPoolAddr = "0xee9a4402d1828d7d6fb8aecb0bdd5b804be55a57";
     const rewardTokenAddr = "0x930ed81ad809603baf727117385d01f04354612e";
     const balancerPoolTokenAddr = "0x930ed81ad809603baf727117385d01f04354612e";
     const rewardTokenTicker = "SOLARITE";
